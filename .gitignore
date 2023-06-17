@@ -1,0 +1,5 @@
+# this is a place where we can tell git to ignore things
+# to ignore, hust write the name of the file or folder you want git to ignore
+
+.Rproj.user/
+data/
