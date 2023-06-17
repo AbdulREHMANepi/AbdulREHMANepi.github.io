@@ -8,6 +8,8 @@ navbar:
       href: about.html
     - text: "Research"
       href: research.html
+    - text: "Infectious Diseases"
+      href: fmd.html
       
 output_dir: 'docs'
 
