@@ -1,0 +1,12 @@
+name: "Abdul's website"
+navbar:
+  title: "Abdul REHMAN"
+  left:
+    - text: "Home"
+      href: index.html 
+    - text: "About"
+      href: about.html
+    - text: "Research"
+      href: research.html
+      
+output_dir: 'docs'
