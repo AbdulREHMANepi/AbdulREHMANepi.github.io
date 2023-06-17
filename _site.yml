@@ -11,6 +11,13 @@ navbar:
       
 output_dir: 'docs'
 
+# to add pre built themes
+
+output:
+  html_document:
+    theme: flatly
+
+
 # git init - to connect
 # add
 # commit
